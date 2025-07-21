@@ -8,7 +8,7 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: 210 40% 98%;
     --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
@@ -17,7 +17,7 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
+    --primary: 220 91% 55%;
     --primary-foreground: 210 40% 98%;
 
     --secondary: 210 40% 96.1%;
@@ -26,17 +26,32 @@ All colors MUST be HSL.
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 142 71% 45%;
+    --accent-foreground: 210 40% 98%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --ring: 220 91% 55%;
 
     --radius: 0.5rem;
+
+    --fuel-station: 39 84% 56%;
+    --fuel-station-foreground: 210 40% 98%;
+    
+    --success: 142 71% 45%;
+    --success-foreground: 210 40% 98%;
+    
+    --warning: 43 96% 56%;
+    --warning-foreground: 222.2 84% 4.9%;
+
+    --chart-1: 220 91% 55%;
+    --chart-2: 142 71% 45%;
+    --chart-3: 39 84% 56%;
+    --chart-4: 292 84% 61%;
+    --chart-5: 197 71% 52%;
 
     --sidebar-background: 0 0% 98%;
 
